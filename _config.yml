@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "William Fuller / Academic Webpage"
+title                    : "William Fuller"
 title_separator          : "-"
 name                     : &name "William Fuller"
 description              : &description "personal description"
