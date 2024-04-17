@@ -2,9 +2,9 @@
 title: "Optimising the Design of a New Turbulence Probe for MAST-U."
 collection: posters
 type: "Poster"
-permalink: /posters/2021-04-20-iop-poster-optimising
+permalink: /posters/2021-04-06-iop-poster-optimising
 venue: "IOP 47th Plasma Physics Conference 2021"
-date: 2021-04-20
+date: 2021-04-06
 location: "Online"
 paperurl: 'https://willfuller.github.io/files/2021_iop_poster.pdf'
 ---
