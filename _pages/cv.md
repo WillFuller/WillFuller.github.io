@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Fusion Plasma Physics, The University of Warwick, 2024 (expected)
-* * MPhys (Hons) in Physics, The University of Hull, 2016, 2:1
+* MPhys (Hons) in Physics, The University of Hull, 2016, 2:1
 
 Work experience
 ======
