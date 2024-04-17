@@ -28,7 +28,7 @@ Work experience
       io
 
 * October 2017 - September 2019: Test and Installation Engineer
-  * [ICEoxford](https://www.iceoxford.com/)
+  * [ICEoxford Ltd.](https://www.iceoxford.com/)
   * Duties included:
     * Testing of wet and dry cryogenic systems
     * Testing and training superconducting magnets
