@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "William Fuller Academic Webpage"
+title: "William Fuller About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
