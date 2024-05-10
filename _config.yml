@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "William Fuller / Academic Webpage"
+title                    : "William Fuller"
 title_separator          : "-"
 name                     : &name "William Fuller"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Will Fuller"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Experimentalist, Engineer, and Adventurer"
   location         : "Oxford, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
