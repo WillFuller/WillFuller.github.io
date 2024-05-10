@@ -24,8 +24,8 @@ Work experience
     * Analyse data generated from the diagnostic
     * Swap out probe heads as required by the campaign
   * Supervisor: [Scott Allan](mailto:Scott.Allan@ukaea.uk)
-  * Summary:
-      io
+  <!-- * Summary:
+      io -->
 
 * October 2017 - September 2019: Test and Installation Engineer
   * [ICEoxford Ltd.](https://www.iceoxford.com/)
@@ -38,8 +38,8 @@ Work experience
     * 3-point calibration for temperature sensors used in medical MRI scanners
   * Supervisor: Gareth Way
   * Manager: Paul Kelly
-  * Summary:
-      io
+  <!-- * Summary:
+      io -->
 
 Skills
 ======
