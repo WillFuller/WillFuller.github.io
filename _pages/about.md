@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "William Fuller About"
+title: "William Fuller - About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently finishing off my PhD with the University of Warwick but I'm based at UKAEA's Culham campus working on the MAST-U spherical tokamak. At UKAEA I am currently the assistant Responsible Officer (RO) for the midplane reciprocating probe, which means I get to get hands-on with a tempermental pnumatic driven reciprocation system with changeble heads! This makes operation more complex and chaotic, especially when a new probe head is swapped out. I do my best to understand the system and organise the rat's nest of cables as best I can though!
+I am currently finishing off my PhD with the University of Warwick but I'm based at UKAEA's Culham campus working on the MAST-U spherical tokamak. At UKAEA I am the assistant Responsible Officer (RO) for the midplane reciprocating probe (RP), which means I get to get hands-on with a tempermental pnumatic driven reciprocation system with changeble heads! This makes operation more complex and chaotic, especially when a new probe head is swapped out. I do my best to understand the system and organise the rat's nest of cables as best I can though!
+
+My PhD project is centered around designing a new probe head for the RP system on MAST-U, targeting turbulent measurements in the scrape-off layer (SOL). I designed a probe head named the "Turbulence Probe Head". It has 15 different Langmuir Probes arranged in several multi-functional arrays to capture as much information from the plasma as possible.
+
+I am a former cryogenic test engineer, where I wired, tested, and installed custom cryogenic systems across the globe. These systems were used mostly for materials research and quantum computing. I worked mostly on dry cryostats, where a small amount of Helium gas was liquified and cooled copper stages via conduction in a closed loop. But I also occasionally worked on wet cryostats which use large amounts of liquid Helium, such as dilution fridges, capable of < 5mK temperatures!
 
 ### Source
 ------
