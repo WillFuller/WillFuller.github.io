@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
+
 * PhD in Fusion Plasma Physics, The University of Warwick, 2024 (expected)
 * MPhys (Hons) in Physics, The University of Hull, 2016, 2:1
 
 Work Experience
 ======
+
 * November 2022 - December 2023: assistant RO for the midplane reciprocating system
   * UKAEA
   * Duties included:
@@ -43,6 +45,7 @@ Work Experience
 
 Skills
 ======
+
 * Communication
   * writing academic reports which are consistently highly marked
   * Effective presentations both academic and society based
@@ -54,7 +57,7 @@ Skills
   * good at discussing new ideas and problem solving
   * able to follow standard operating procedures and leading by example
 * Computational
-  * : Experienced with:
+  * Experienced with:
     * Bash
     * Git
     * LaTeX
@@ -86,19 +89,24 @@ Skills
 
 Posters
 ======
+
   <ul>{% for post in site.posters reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+[Talks]: #
+
+[======]: #
+
+  [<ul>{% for post in site.talks reversed %}]: #
+
+    [{% include archive-single-talk-cv.html  %}]: #
+
+  [{% endfor %}</ul>]: #
   
 Teaching
 ======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
