@@ -1,10 +1,10 @@
 ---
 title: "Turbulence Probe Head Arrays"
-excerpt: "The Turbulence Probe Head Arrays<br/><img src='/images/500x300.png'>"
+excerpt: "The Turbulence Probe Head Arrays<br/><img src='/images/500x300.png' alt='blank'>"
 collection: portfolio
 ---
 
-<img src='/images/500x300.png'>
+<img src='/images/500x300.png' alt='blank'>
 
 The Turbulence Probe Head contains 15 probes laid out in a variety of multi-functional arrays. The array layouts were designed using a synthetic approach, where layout designs were iterated in turbulence models to optimise for maximum data collection.
 
