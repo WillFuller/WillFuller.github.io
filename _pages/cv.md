@@ -56,11 +56,12 @@ Skills
   * Confident and very adaptable to new situations
   * good at discussing new ideas and problem solving
   * able to follow standard operating procedures and leading by example
-* Computational
+* Computational:
   * Experienced with:
     * Bash
     * Git
     * LaTeX
+    * Overleaf
     * Python3
     * Microsoft Office
   * Familiar with a range of software packages and programming languages:
