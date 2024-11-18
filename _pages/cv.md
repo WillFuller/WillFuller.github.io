@@ -14,13 +14,13 @@ Education
 * PhD in Fusion Plasma Physics, The University of Warwick, 2024 (expected)
 * MPhys (Hons) in Physics, The University of Hull, 2016, 2:1
 
-Work experience
+Work Experience
 ======
 * November 2022 - December 2023: assistant RO for the midplane reciprocating system
   * UKAEA
   * Duties included:
     * Ensure operation of the diagnostic during campaigns
-    * Perform maintanence as required
+    * Perform maintenance as required
     * Analyse data generated from the diagnostic
     * Swap out probe heads as required by the campaign
   * Supervisor: [Scott Allan](mailto:Scott.Allan@ukaea.uk)
@@ -108,3 +108,6 @@ Teaching
 [======]: #
 
 [* Currently signed in to 43 different slack teams]: #
+
+*[RO]: Responsible Officer
+*[MRI]: Magnetic Resonance Imaging
