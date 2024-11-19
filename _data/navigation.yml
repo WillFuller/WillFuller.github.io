@@ -10,10 +10,13 @@ main:
     #url: /publications/
 
   #- title: "Talks"
-    #url: /talks/    
-    
+    #url: /talks/   
+ 
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "CV"
     url: /cv/
 
-  #- title: "Blog Posts"
-    #url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
