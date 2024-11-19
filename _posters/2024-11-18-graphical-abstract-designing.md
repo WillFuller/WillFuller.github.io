@@ -12,4 +12,4 @@ paperurl: "https://willfuller.github.io/files/graphical_abstract_design_probe.pd
 
 This Graphical abstract displays some of the design considerations undertaken for the Turbulence Probe Head design.
 
-<img src="/images/shell_cap_schematic_colour_coords.png" alt="Colour-coded schematic showing the layout of the Turbulence Probe arrays." width="249" height="223">
+![Turbulence Probe Head](/images/turb-probe-size-photo.jpg)
