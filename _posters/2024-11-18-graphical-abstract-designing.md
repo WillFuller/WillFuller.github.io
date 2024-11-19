@@ -12,4 +12,4 @@ paperurl: "/files/graphical_abstract_design_probe.pdf"
 
 This Graphical abstract displays some of the design considerations undertaken for the Turbulence Probe Head design.
 
-![Turbulence Probe Head](/images/turb-probe-size-photo.jpg)
+<img src="/images/turb_probe_photo_90.jpg" alt="Turbulence Probe Head" height="240" width="379">
