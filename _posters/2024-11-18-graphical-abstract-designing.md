@@ -5,7 +5,7 @@ type: "Graphical Abstract"
 permalink: /posters/2024-11-18-graphical-abstract-designing
 date: 2024-11-18
 location: "Online"
-paperurl: "https://willfuller.github.io/files/graphical_abstract_design_probe.pdf"
+paperurl: "/files/graphical_abstract_design_probe.pdf"
 ---
 
 ### Abstract Description
