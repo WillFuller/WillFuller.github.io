@@ -261,3 +261,29 @@ This allows you to denote <var>variables</var>.
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+
+## Anchoring Headings {#subsec_anchor_head}
+
+To anchor a heading simply include `# Heading {#head_id}` and to reference it use `[head_id](#head_id)` which renders as:
+
+Section [label](#subsec_anchor_head) is very short.
+
+## Figures
+
+Figures can be included in `Markdown` as such:
+
+`![Blank Image](/images/500x300.png){:width="250" height="150" id="fig_blank"}`
+
+![Blank Image](/images/500x300.png){:width="250" height="150" id="fig_blank"}
+
+<img id="fig_html_blank" src="/images/500x300.png" width="250" height="150" alt="Blank Image">
+
+where `![]` is the alt tag, `()` is the source and `{:width="" height="" id=""}` is the span and block IALs that can specify additional HTML attributes.
+
+### Anchoring Figures
+
+To refer back to an included figure, simply use `[text](#fig_name)` which renders like this:
+
+Figure [1](#fig_blank) is pretty dull.
+
+Figure <a href="#fig_html_blank">1</a> seems to work.
