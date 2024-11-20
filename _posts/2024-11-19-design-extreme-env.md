@@ -14,7 +14,7 @@ Over the course of my PhD, I have had the opportunity to spend the past few year
 
 ![MAST-U](/images/MAST-U_picture_updated_smaller.jpg){:width="249px" height="223px"}
 
-Firstly, minimising the time the probe spends in contact with the plasma helps survivability. The probe is mounted on a compressed air driven reciprocating arm capable of moving the probe up to 9 cm at a speed of 4.5 ms<sup>-1</sup> (10 mph).
+Firstly, minimising the time the probe spends in contact with the plasma helps survivability. The probe is mounted on a compressed air driven reciprocating arm capable of moving the probe up to 9 cm at a speed of 0.45 ms<sup>-1</sup> (~1 mph).
 
 ![RP system](/images/RP_CAD.png){:width="249px" height="223px"}
 
